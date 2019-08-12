@@ -1,3 +1,5 @@
+TAP_DANCE_ENABLE=yes
+
 # MCU name
 MCU = atmega32u4
 
